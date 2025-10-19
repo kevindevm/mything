@@ -1,0 +1,12 @@
+{
+  "switches": [
+    { "id": 1, "state": false, "name": "Luz Cocina" },
+    { "id": 2, "state": true, "name": "Luz Dormitorio" },
+    { "id": 3, "state": false, "name": "Ventilador" },
+    { "id": 4, "state": true, "name": "Televisor" },
+    { "id": 5, "state": false, "name": "Radio" },
+    { "id": 6, "state": true, "name": "Calefactor" },
+    { "id": 7, "state": false, "name": "Humedificador" },
+    { "id": 8, "state": true, "name": "Luces Exterior" }
+  ]
+}
